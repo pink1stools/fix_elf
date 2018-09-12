@@ -1,0 +1,7 @@
+C:\Users\Home\source\repos\fix_elf\fix_elf\bin\Debug\fix_elf.exe.config
+C:\Users\Home\source\repos\fix_elf\fix_elf\bin\Debug\fix_elf.exe
+C:\Users\Home\source\repos\fix_elf\fix_elf\bin\Debug\fix_elf.pdb
+C:\Users\Home\source\repos\fix_elf\fix_elf\obj\Debug\fix_elf.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\fix_elf\fix_elf\obj\Debug\fix_elf.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\fix_elf\fix_elf\obj\Debug\fix_elf.exe
+C:\Users\Home\source\repos\fix_elf\fix_elf\obj\Debug\fix_elf.pdb
