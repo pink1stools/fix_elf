@@ -1,2 +1,4 @@
 # fix_elf
-Port of fix_elf.py by Mysis
+C# port of fix_elf.py by Mysis
+
+Made this as a favor for my good friend xXxTheDarkprogramerxXx
